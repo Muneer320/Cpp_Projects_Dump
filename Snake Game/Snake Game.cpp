@@ -64,7 +64,7 @@ void setup() {
 void draw() {
     // Upper border
     cout << "\t\t";
-    for (int i = 0; i < width+2; i++) {
+    for (int i = 0; i < width+2; i++) { // +2 for left and right borders
         cout << "=";
     }
     cout << endl;
@@ -104,13 +104,13 @@ void draw() {
 
     // Lower border
     cout << "\t\t";
-    for (int i = 0; i < width+2; i++) {
+    for (int i = 0; i < width+2; i++) {  // +2 for left and right borders
         cout << "=";
     }
     cout << endl;
 
     // Score
-    cout << "\t\tScore: " << score << endl;
+    cout << "\tScore: " << score << endl;
 }
 
 void input() {
