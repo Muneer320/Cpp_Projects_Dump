@@ -1,0 +1,7 @@
+144245*Muneer Alam*Muneer Sr.*Delhi
+144246*Marvin*Haokip*Guwahati
+202101*Rahul Sharma*Arun Sharma*123 Main Street, New Delhi
+202102*Priya Verma*Ramesh Verma*456 Green Avenue, Mumbai
+202103*Vikas Gupta*Mahesh Gupta*789 Park Lane, Bengaluru
+202104*Sakshi Mehta*Suresh Mehta*321 River Road, Hyderabad
+202105*Anjali Singh*Rajesh Singh*654 Oak Street, Pune

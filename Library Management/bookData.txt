@@ -1,0 +1,10 @@
+101*The C++ Programming Language*Bjarne Stroustrup
+102*Clean Code*Robert C. Martin
+103*Design Patterns*Erich Gamma
+104*Effective C++*Scott Meyers
+105*You Don’t Know JS*Kyle Simpson
+106*Introduction to Algorithms*Thomas H. Cormen
+107*Cracking the Coding Interview*Gayle Laakmann McDowell
+108*The Pragmatic Programmer*Andrew Hunt
+109*Code Complete*Steve McConnell
+110*Head First Design Patterns*Eric Freeman

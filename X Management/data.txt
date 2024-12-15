@@ -1,0 +1,4 @@
+102*Clean Code*Robert C. Martin
+103*Design Patterns*Erich Gamma
+104*Effective C++*Scott Meyers
+101*Cracking the Coding Interview*Gayle Laakmann McDowell
